@@ -10,7 +10,7 @@ Este repositório contém os códigos desenvolvidos na linguagem python, voltado
 ### Conteúdo:  
 pastas:
 * Fundamentos --> são os códigos da parte iniciante do python    
-* Listas_em_python --> são os códigos relacionados a estruturas em python  
+* Estrutura de Dados --> são os códigos relacionados a estruturas em python  
 desenvolvidos pelo autor
  ******************************************************************** 
 #### Ferramentas:
