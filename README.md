@@ -7,7 +7,6 @@
 _________________________________________________________
 # *Descrição:*   
 Este repositório contém os códigos desenvolvidos na linguagem python, voltados para a praticas do Bootcamp luizalabs back-end com python da DIO 	
-
 ### Conteúdo:  
 pastas:
 * Fundamentos --> são os códigos da parte iniciante do python    
@@ -18,6 +17,6 @@ desenvolvidos pelo autor
 * Anaconda versão 25.7.0   
 * Python versão 3.13.5
 -----------------------------------------
-##IDE'S.
+## IDE'S:
 - Vscode
 - pycharm
