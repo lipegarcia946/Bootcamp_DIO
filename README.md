@@ -11,7 +11,7 @@ Este repositório contém os códigos desenvolvidos na linguagem python, voltado
 pastas:
 * Fundamentos --> são os códigos da parte iniciante do python    
 * Estrutura de Dados --> são os códigos relacionados a estruturas em python  
-desenvolvidos pelo autor
+desenvolvidos ou alterados pelo autor
  ******************************************************************** 
 #### Ferramentas:
 * Anaconda versão 25.7.0   
