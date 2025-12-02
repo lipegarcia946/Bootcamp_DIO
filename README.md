@@ -14,8 +14,8 @@ pastas:
 desenvolvidos ou alterados pelo autor
  ******************************************************************** 
 #### Ferramentas:
-* Anaconda versão 25.7.0   
-* Python versão 3.13.5
+* Anaconda versão 25.11.0   
+* Python versão 3.13.9 e 3.14
 -----------------------------------------
 ## IDE'S:
 - Vscode
